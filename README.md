@@ -20,13 +20,19 @@ It is still behind because when you pulled you pulled the remote master to the l
 Q7- Run git branch- did your local copy of your branch delete when Person A deleted the remote branch?
 No it did not delete the local copy of the branch when the master was pulled down after the branch was deleted on gitHub
 
-Q8- * commit 4293734132561da112f6620bae363e64c11a4fcd (HEAD -> Feature2, origin/Feature2)
+Q8- * commit 4ecf2c2cb5041f3b244151306b426ce6cb3ae46b (origin/Again)
+| Author: Isabelle Hurley <ihurley19@ihurley19.local>
+| Date:   Tue Sep 4 14:39:58 2018 -0600
+| 
+|     commiting changes to blank
+| 
+* commit 4293734132561da112f6620bae363e64c11a4fcd (origin/Feature2)
 | Author: Isabelle Hurley <ihurley19@ihurley19.local>
 | Date:   Tue Sep 4 14:27:38 2018 -0600
 | 
 |     commiting feature 2 changes
 | 
-* commit b9e00f3620431b5359c1119d2d8ab00957ccdf50 (origin/master, origin/HEAD, master)
+* commit b9e00f3620431b5359c1119d2d8ab00957ccdf50 (HEAD -> master, origin/master, origin/HEAD)
 | Author: ihurley <34346968+ihurley@users.noreply.github.com>
 | Date:   Tue Sep 4 14:24:07 2018 -0600
 | 
@@ -36,9 +42,4 @@ Q8- * commit 4293734132561da112f6620bae363e64c11a4fcd (HEAD -> Feature2, origin/
 |\  Merge: be11141 2b59ce5
 | | Author: ihurley <34346968+ihurley@users.noreply.github.com>
 | | Date:   Tue Sep 4 14:21:40 2018 -0600
-| | 
-| |     Merge pull request #1 from ihurley/firstBranch
-| |     
-| |     First branch
-| |   
 :
