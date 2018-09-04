@@ -16,3 +16,6 @@ This is a merge because it doesn't override the project history
 
 Q6- Person B: Checkout the local master branch- is it updated as well or still behind remote master?
 It is still behind because when you pulled you pulled the remote master to the local branch not to the local master and thus the local master is still behind the remote master.  
+
+Q7- Run git branch- did your local copy of your branch delete when Person A deleted the remote branch?
+No it did not delete the local copy of the branch when the master was pulled down after the branch was deleted on gitHub
