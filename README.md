@@ -20,4 +20,25 @@ It is still behind because when you pulled you pulled the remote master to the l
 Q7- Run git branch- did your local copy of your branch delete when Person A deleted the remote branch?
 No it did not delete the local copy of the branch when the master was pulled down after the branch was deleted on gitHub
 
-Q8- 
+Q8- * commit 4293734132561da112f6620bae363e64c11a4fcd (HEAD -> Feature2, origin/Feature2)
+| Author: Isabelle Hurley <ihurley19@ihurley19.local>
+| Date:   Tue Sep 4 14:27:38 2018 -0600
+| 
+|     commiting feature 2 changes
+| 
+* commit b9e00f3620431b5359c1119d2d8ab00957ccdf50 (origin/master, origin/HEAD, master)
+| Author: ihurley <34346968+ihurley@users.noreply.github.com>
+| Date:   Tue Sep 4 14:24:07 2018 -0600
+| 
+|     Update README.md
+|   
+*   commit 7d8e34cbedde655a215f97b524a6a60037289433
+|\  Merge: be11141 2b59ce5
+| | Author: ihurley <34346968+ihurley@users.noreply.github.com>
+| | Date:   Tue Sep 4 14:21:40 2018 -0600
+| | 
+| |     Merge pull request #1 from ihurley/firstBranch
+| |     
+| |     First branch
+| |   
+:
